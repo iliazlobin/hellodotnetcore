@@ -38,4 +38,3 @@ namespace hellodotnetcore
         }
     }
 }
-2
